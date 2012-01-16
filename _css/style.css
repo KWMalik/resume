@@ -1,8 +1,5 @@
-body {
-    padding-top: 20px;
-    padding-bottom: 50px;
-}
-
-.container {
-    padding: 0 20px;
+.original body {
+    margin: 0;
+    border: 0;
+    padding: 20px;
 }

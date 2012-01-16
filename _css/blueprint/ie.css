@@ -12,25 +12,25 @@
 ----------------------------------------------------------------------- */
 
 /* ie.css */
-body {text-align:center;}
-.container {text-align:left;}
-* html .column, * html .span-1, * html .span-2, * html .span-3, * html .span-4, * html .span-5, * html .span-6, * html .span-7, * html .span-8, * html .span-9, * html .span-10, * html .span-11, * html .span-12, * html .span-13, * html .span-14, * html .span-15, * html .span-16, * html .span-17, * html .span-18, * html .span-19, * html .span-20, * html .span-21, * html .span-22, * html .span-23, * html .span-24 {display:inline;overflow-x:hidden;}
-* html legend {margin:0px -8px 16px 0;padding:0;}
-sup {vertical-align:text-top;}
-sub {vertical-align:text-bottom;}
-html>body p code {*white-space:normal;}
-hr {margin:-8px auto 11px;}
-img {-ms-interpolation-mode:bicubic;}
-.clearfix, .container {display:inline-block;}
-* html .clearfix, * html .container {height:1%;}
-fieldset {padding-top:0;}
-legend {margin-top:-0.2em;margin-bottom:1em;margin-left:-0.5em;}
-textarea {overflow:auto;}
-label {vertical-align:middle;position:relative;top:-0.25em;}
-input.text, input.title, textarea {background-color:#fff;border:1px solid #bbb;}
-input.text:focus, input.title:focus {border-color:#666;}
-input.text, input.title, textarea, select {margin:0.5em 0;}
-input.checkbox, input.radio {position:relative;top:.25em;}
-form.inline div, form.inline p {vertical-align:middle;}
-form.inline input.checkbox, form.inline input.radio, form.inline input.button, form.inline button {margin:0.5em 0;}
-button, input.button {position:relative;top:0.25em;}
+#resume>div {text-align:center;}
+#resume .container {text-align:left;}
+#resume .column, #resume .span-1, #resume .span-2, #resume .span-3, #resume .span-4, #resume .span-5, #resume .span-6, #resume .span-7, #resume .span-8, #resume .span-9, #resume .span-10, #resume .span-11, #resume .span-12, #resume .span-13, #resume .span-14, #resume .span-15, #resume .span-16, #resume .span-17, #resume .span-18, #resume .span-19, #resume .span-20, #resume .span-21, #resume .span-22, #resume .span-23, #resume .span-24 {display:inline;overflow-x:hidden;}
+#resume legend {margin:0px -8px 16px 0;padding:0;}
+#resume sup {vertical-align:text-top;}
+#resume sub {vertical-align:text-bottom;}
+#resume>div p code {*white-space:normal;}
+#resume hr {margin:-8px auto 11px;}
+#resume img {-ms-interpolation-mode:bicubic;}
+#resume .clearfix, #resume .container {display:inline-block;}
+#resume .clearfix, #resume .container {height:1%;}
+#resume fieldset {padding-top:0;}
+#resume legend {margin-top:-0.2em;margin-bottom:1em;margin-left:-0.5em;}
+#resume textarea {overflow:auto;}
+#resume label {vertical-align:middle;position:relative;top:-0.25em;}
+#resume input.text, #resume input.title, #resume textarea {background-color:#fff;border:1px solid #bbb;}
+#resume input.text:focus, #resume input.title:focus {border-color:#666;}
+#resume input.text, #resume input.title, #resume textarea, #resume select {margin:0.5em 0;}
+#resume input.checkbox, #resume input.radio {position:relative;top:.25em;}
+#resume form.inline div, #resume form.inline p {vertical-align:middle;}
+#resume form.inline input.checkbox, #resume form.inline input.radio, #resume form.inline input.button, #resume form.inline button {margin:0.5em 0;}
+#resume button, #resume input.button {position:relative;top:0.25em;}

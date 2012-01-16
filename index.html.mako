@@ -1,6 +1,6 @@
-<!-- NOTE: This is an automatically generated file. See http://github.com/amtinits/resume for details. -->
 <!DOCTYPE html>
-<html>
+<!-- NOTE: This is an automatically generated file. See http://github.com/amtinits/resume for details. -->
+<html class="original">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Andrew Tinits</title>
@@ -18,9 +18,11 @@
         </style>
     </head>
     <body>
-        <div class="container">
-            <div id="content" class="span-24">
-                ${filter_file("markdown, typogrify", "_resume.markdown")}
+        <div id="resume">
+            <div id="resume-body">
+                <div class="container">
+                    ${filter_file("markdown, typogrify", "_resume.markdown")}
+                </div>
             </div>
         </div>
     </body>
