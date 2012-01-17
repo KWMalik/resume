@@ -5,16 +5,16 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Andrew Tinits</title>
         <style type="text/css" media="screen, projection">
-            <%include file="_css/blueprint/screen.css"/>
+            <%include file="_blueprint/screen.css"/>
         </style>
         <style type="text/css" media="print">
-            <%include file="_css/blueprint/print.css"/>
+            <%include file="_blueprint/print.css"/>
         </style>
         <!--[if lt IE 8]><style type="text/css" media="screen, projection">
-            <%include file="_css/blueprint/ie.css"/>
+            <%include file="_blueprint/ie.css"/>
         </style><![endif]-->
         <style type="text/css" media="screen, projection">
-            <%include file="_css/style.css"/>
+            .original body {margin: 0; border: 0; padding: 20px;}
         </style>
     </head>
     <body>

@@ -27,3 +27,7 @@
 #resume .hide {display:none;}
 #resume a:link, #resume a:visited {background:transparent;font-weight:700;text-decoration:underline;}
 #resume a:link:after, #resume a:visited:after {content:" (" attr(href) ")";font-size:90%;}
+
+/* my-print.css */
+#resume hr {display:none;}
+#resume>div {line-height:1.4;}
