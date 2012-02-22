@@ -19,6 +19,8 @@ University of Waterloo
 
 ### Work Experience ###
 
+**Software Engineer** at [Facebook](http://www.facebook.com), Menlo Park, California, May - Aug 2012
+
 **Software Engineer** at [Yelp](http://www.yelp.com), San Francisco, California, Sept - Dec 2011
 
 * Designed and implemented the first documented internal API for site metrics and performance data
@@ -42,12 +44,6 @@ University of Waterloo
 * Converted server setup batch files to PowerShell scripts for improved maintainability
 * Worked on integrating search features into technical web pages and documentation
 * Migrated existing web applications based on PHP, XSLT, and JavaScript to newer platform versions
-
-**Technology Sales Associate** at [Staples Business Depot](http://www.staples.ca), Stratford, Ontario, June 2007 - Sept 2009
-
-* Acquired skills in customer relations, sales techniques, and retail operations
-* Worked as a computer repair technician and technical support advisor
-* Developed software which displays ink information for a customer's printer model on a secure public computer terminal (now in use at several locations)
 
 ### Extracurricular ###
 
